@@ -1,0 +1,8 @@
+package Zippynik.FirstMod;
+
+import cpw.mods.fml.common.Mod;
+
+@Mod(modid = "FirstMod")
+public class FirstMod {
+
+}
